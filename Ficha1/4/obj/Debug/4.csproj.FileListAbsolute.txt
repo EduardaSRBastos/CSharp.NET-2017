@@ -1,0 +1,8 @@
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\4\bin\Debug\4.exe.config
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\4\bin\Debug\4.exe
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\4\bin\Debug\4.pdb
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\4\obj\Debug\_4.Form1.resources
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\4\obj\Debug\_4.Properties.Resources.resources
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\4\obj\Debug\4.csproj.GenerateResource.Cache
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\4\obj\Debug\4.exe
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\4\obj\Debug\4.pdb

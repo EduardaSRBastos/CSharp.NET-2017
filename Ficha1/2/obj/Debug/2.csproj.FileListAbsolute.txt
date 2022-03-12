@@ -1,0 +1,9 @@
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\2\bin\Debug\2.exe.config
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\2\bin\Debug\2.exe
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\2\bin\Debug\2.pdb
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\2\obj\Debug\_2.Form1.resources
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\2\obj\Debug\_2.Properties.Resources.resources
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\2\obj\Debug\2.csproj.GenerateResource.Cache
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\2\obj\Debug\2.exe
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\2\obj\Debug\2.pdb
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha1\2\obj\Debug\2.csprojResolveAssemblyReference.cache

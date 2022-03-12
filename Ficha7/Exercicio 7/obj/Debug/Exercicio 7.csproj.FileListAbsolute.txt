@@ -1,0 +1,18 @@
+H:\TP11\Exercicio 7\Exercicio 7\bin\Debug\Exercicio 7.exe.config
+H:\TP11\Exercicio 7\Exercicio 7\bin\Debug\Exercicio 7.exe
+H:\TP11\Exercicio 7\Exercicio 7\bin\Debug\Exercicio 7.pdb
+H:\TP11\Exercicio 7\Exercicio 7\obj\Debug\Exercicio 7.csprojResolveAssemblyReference.cache
+H:\TP11\Exercicio 7\Exercicio 7\obj\Debug\Exercicio_7.Form1.resources
+H:\TP11\Exercicio 7\Exercicio 7\obj\Debug\Exercicio_7.Properties.Resources.resources
+H:\TP11\Exercicio 7\Exercicio 7\obj\Debug\Exercicio 7.csproj.GenerateResource.Cache
+H:\TP11\Exercicio 7\Exercicio 7\obj\Debug\Exercicio 7.exe
+H:\TP11\Exercicio 7\Exercicio 7\obj\Debug\Exercicio 7.pdb
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha7\Exercicio 7\bin\Debug\Exercicio 7.exe.config
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha7\Exercicio 7\obj\Debug\Exercicio 7.exe
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha7\Exercicio 7\obj\Debug\Exercicio 7.pdb
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha7\Exercicio 7\bin\Debug\Exercicio 7.exe
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha7\Exercicio 7\bin\Debug\Exercicio 7.pdb
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha7\Exercicio 7\obj\Debug\Exercicio 7.csprojResolveAssemblyReference.cache
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha7\Exercicio 7\obj\Debug\Exercicio_7.Form1.resources
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha7\Exercicio 7\obj\Debug\Exercicio_7.Properties.Resources.resources
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha7\Exercicio 7\obj\Debug\Exercicio 7.csproj.GenerateResource.Cache

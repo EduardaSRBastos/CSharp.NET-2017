@@ -1,0 +1,17 @@
+H:\TP11\Ficha 10\Ficha 10\bin\Debug\Ficha 10.exe.config
+H:\TP11\Ficha 10\Ficha 10\bin\Debug\Ficha 10.exe
+H:\TP11\Ficha 10\Ficha 10\bin\Debug\Ficha 10.pdb
+H:\TP11\Ficha 10\Ficha 10\obj\Debug\Ficha 10.csprojResolveAssemblyReference.cache
+H:\TP11\Ficha 10\Ficha 10\obj\Debug\Ficha_10.Properties.Resources.resources
+H:\TP11\Ficha 10\Ficha 10\obj\Debug\Ficha 10.csproj.GenerateResource.Cache
+H:\TP11\Ficha 10\Ficha 10\obj\Debug\Ficha 10.exe
+H:\TP11\Ficha 10\Ficha 10\obj\Debug\Ficha 10.pdb
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\Ficha 10\bin\Debug\Ficha 10.exe.config
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\Ficha 10\bin\Debug\Ficha 10.exe
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\Ficha 10\bin\Debug\Ficha 10.pdb
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\Ficha 10\obj\Debug\Ficha 10.csprojResolveAssemblyReference.cache
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\Ficha 10\obj\Debug\Ficha_10.Properties.Resources.resources
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\Ficha 10\obj\Debug\Ficha 10.csproj.GenerateResource.Cache
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\Ficha 10\obj\Debug\Ficha 10.csproj.CoreCompileInputs.cache
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\Ficha 10\obj\Debug\Ficha 10.exe
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\Ficha 10\obj\Debug\Ficha 10.pdb

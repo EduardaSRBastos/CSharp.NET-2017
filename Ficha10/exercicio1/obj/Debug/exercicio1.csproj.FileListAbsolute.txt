@@ -1,0 +1,7 @@
+H:\TP11\Ficha 10\exercicio1\bin\Debug\exercicio1.exe.config
+H:\TP11\Ficha 10\exercicio1\bin\Debug\exercicio1.exe
+H:\TP11\Ficha 10\exercicio1\bin\Debug\exercicio1.pdb
+H:\TP11\Ficha 10\exercicio1\obj\Debug\exercicio1.Properties.Resources.resources
+H:\TP11\Ficha 10\exercicio1\obj\Debug\exercicio1.csproj.GenerateResource.Cache
+H:\TP11\Ficha 10\exercicio1\obj\Debug\exercicio1.exe
+H:\TP11\Ficha 10\exercicio1\obj\Debug\exercicio1.pdb

@@ -1,0 +1,8 @@
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\exercicio 6\bin\Debug\exercicio 6.exe.config
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\exercicio 6\bin\Debug\exercicio 6.exe
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\exercicio 6\bin\Debug\exercicio 6.pdb
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\exercicio 6\obj\Debug\exercicio_6.Properties.Resources.resources
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\exercicio 6\obj\Debug\exercicio 6.csproj.GenerateResource.Cache
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\exercicio 6\obj\Debug\exercicio 6.csproj.CoreCompileInputs.cache
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\exercicio 6\obj\Debug\exercicio 6.exe
+D:\school\11ºAno\TP\Exercícios\Form\Ficha10\exercicio 6\obj\Debug\exercicio 6.pdb

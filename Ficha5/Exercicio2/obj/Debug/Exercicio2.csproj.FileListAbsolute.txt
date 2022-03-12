@@ -1,0 +1,9 @@
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha5\Exercicio2\bin\Debug\Exercicio2.exe.config
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha5\Exercicio2\bin\Debug\Exercicio2.exe
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha5\Exercicio2\bin\Debug\Exercicio2.pdb
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha5\Exercicio2\obj\Debug\Exercicio2.csprojResolveAssemblyReference.cache
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha5\Exercicio2\obj\Debug\Exercicio2.Form1.resources
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha5\Exercicio2\obj\Debug\Exercicio2.Properties.Resources.resources
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha5\Exercicio2\obj\Debug\Exercicio2.csproj.GenerateResource.Cache
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha5\Exercicio2\obj\Debug\Exercicio2.exe
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Form\Ficha5\Exercicio2\obj\Debug\Exercicio2.pdb

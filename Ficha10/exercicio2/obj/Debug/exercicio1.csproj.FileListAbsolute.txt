@@ -1,0 +1,3 @@
+H:\TP11\Ficha 10\exercicio2\bin\Debug\exercicio2.exe.config
+H:\TP11\Ficha 10\exercicio2\obj\Debug\exercicio2.exe
+H:\TP11\Ficha 10\exercicio2\obj\Debug\exercicio2.pdb
